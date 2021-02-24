@@ -3,15 +3,15 @@
 ## Overview
 | Project    | Security Maturity Level  |
 | ------------- |:-------------:|
-| Compound |     Level 5 ⭐           |           
-| Aave |     Level 5 ⭐             |           
-| MakerDAO MCD |      Level 5 ⭐         |           
-| Yearn Finance |  Level 4 🟢              |           
-| Bancor |       Level 4 🟢         |    
-| UMA |        Level 3  🟡       |   
-| Argent |       Level 3  🟡       |                 
-| Synthetix |   Level 3  🟡            |       
-| Origin Dollar |   Level 2 🟠            |           
+| [Compound](assessments/Compound.md) |  Level 5 ⭐  |           
+| [Aave](assessments/Aave.md) |     Level 5 ⭐     |           
+| [MakerDAO MCD](assessments/MakerDAO_MCD.md) | Level 5 ⭐ |           
+| [Yearn Finance](assessments/Yearn.md) |  Level 4 🟢 |           
+| [Bancor](assessments/Bancor.md) |       Level 4 🟢   |    
+| [UMA](assessments/UMA.md) |        Level 3  🟡     |   
+| [Argent](assessments/Argent.md) |   Level 3  🟡   |                 
+| [Synthetix](assessments/Synthetix.md) |   Level 3  🟡   |       
+| [Origin Dollar](assessments/Origin_Dollar.md) |  Level 2 🟠|           
 
 
 ## Disclaimer
