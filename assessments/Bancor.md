@@ -12,8 +12,8 @@
 | ------------- |:-------------:| :-------------:| :-------------:| :-------------:| :-------------:|:-------------:|
 | Jul 20  | Halborn | 3 days | Smart Contracts v2  | 1 medium / 3 low |  |  |  
 | Aug 20  |   Consensys Diligence | 4 weeks| Smart Contracts v2, partly formal verification  | 1 high / 3 medium / 2 low | All resolved |  |  
-| Oct 20 | Certik |  ot stated, based on documentation approx. 1 week  | Governance  | 2 medium / 2 low | All resolved |  |  
-| Oct 20 | Certik | ot stated, based on documentation approx. 1 week   | Liquidity Protection  |  8 low|  |  |  
+| Oct 20 | Certik |  not stated, based on documentation approx. 1 week  | Governance  | 2 medium / 2 low | All resolved |  |  
+| Oct 20 | Certik | not stated, based on documentation approx. 1 week   | Liquidity Protection  |  8 low|  |  |  
 | Oct 20 |  Peckshield | ot stated, based on documentation approx. 2 weeks   | Governance and Liquidity Protection | 1 high / 2 medium / 2 low  | All resolved | As a final precaution, we need to emphasize that smart contracts as a whole are still in an early, but exciting stage of development. |  
 
 

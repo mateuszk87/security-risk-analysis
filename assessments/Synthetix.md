@@ -27,4 +27,4 @@
  No public information found.
 
 ## Value at Risk
-Over >$500 mio for 3 months (reference: https://defipulse.com/synthetix)
+Over >$500 million for 3 months (reference: https://defipulse.com/synthetix)
