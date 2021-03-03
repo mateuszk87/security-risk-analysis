@@ -13,6 +13,7 @@
 | [UMA](assessments/UMA.md) |        Level 3  🟡     |   
 | [Argent](assessments/Argent.md) |   Level 3  🟡   |                 
 | [Synthetix](assessments/Synthetix.md) |   Level 3  🟡   |       
+| [SushiSwap](assessments/Sushiswap.md) |  Level 2 🟠|           
 | [Origin Dollar](assessments/Origin_Dollar.md) |  Level 2 🟠|           
 
 
