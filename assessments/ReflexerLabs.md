@@ -26,4 +26,4 @@ No, up to $45k
 No public information found.
 
 ## Value at Risk
-Mainnet release in Feb 2021, Over >$100 million locked after 3 days (reference: https://defipulse.com/synthetix)
+Mainnet release in Feb 2021, Over >$100 million locked after 3 days (reference: https://defipulse.com/reflexer)
