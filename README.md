@@ -6,15 +6,16 @@
 | [Compound](assessments/Compound.md) |  Level 5 ⭐  |           
 | [Aave](assessments/Aave.md) |     Level 5 ⭐     |           
 | [MakerDAO MCD](assessments/MakerDAO_MCD.md) | Level 5 ⭐ |  
-| [Uniswap v2](assessments/Uniswap2.md) |  Level 4 🟢 |           
+| [Uniswap v2](assessments/Uniswap2.md) |  Level 4 🟢 |
+| [SushiSwap](assessments/Sushiswap.md) |  Level 4  🟢  |          
 | [Yearn Finance](assessments/Yearn.md) |  Level 4 🟢 |           
 | [Bancor](assessments/Bancor.md) |       Level 4 🟢   |
+| [Synthetix](assessments/Synthetix.md) |   Level 3  🟡   |       
 | [ReflexerLabs](assessments/ReflexerLabs.md) |   Level 3  🟡   |    
+| [Alchemix](assessments/Alchemix.md) |   Level 3  🟡   |  
 | [Curve](assessments/Curve.md) |   Level 3  🟡   |  
 | [UMA](assessments/UMA.md) |        Level 3  🟡     |   
 | [Argent](assessments/Argent.md) |   Level 3  🟡   |                 
-| [Synthetix](assessments/Synthetix.md) |   Level 3  🟡   |       
-| [SushiSwap](assessments/Sushiswap.md) |  Level 2 🟠|           
 | [Origin Dollar](assessments/Origin_Dollar.md) |  Level 2 🟠|           
 
 
