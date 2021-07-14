@@ -14,6 +14,8 @@
 | [ReflexerLabs](assessments/ReflexerLabs.md) |   Level 3  🟡   |    
 | [Alchemix](assessments/Alchemix.md) |   Level 3  🟡   |  
 | [Curve](assessments/Curve.md) |   Level 3  🟡   |  
+| [Convex Finance](assessments/Convex.md) |   Level 3  🟡   |  
+| [Idle Finance](assessments/Idle.md) |   Level 3  🟡   |  
 | [UMA](assessments/UMA.md) |        Level 3  🟡     |   
 | [Argent](assessments/Argent.md) |   Level 3  🟡   |                 
 | [Origin Dollar](assessments/Origin_Dollar.md) |  Level 2 🟠|           
